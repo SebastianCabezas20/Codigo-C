@@ -1,0 +1,26 @@
+7
+tierra pandora 16 6
+tierra luna 10 3
+pandora tierra 10 4
+pandora ego 8 4
+pandora rigel_7 12 5
+luna tierra 5 2
+luna ego 15 5
+luna axiom 15 5
+ego pandora 10 10
+ego luna 10 5
+ego rigel_7 10 5
+rigel_7 pandora 10 10
+rigel_7 ego 10 5
+rigel_7 axiom 5 2
+rigel_7 pizza_planet 10 10
+axiom luna 8 4
+axiom rigel_7 5 2
+axiom pizza_planet 4 3
+pizza_planet rigel_7 10 10
+pizza_planet axiom 4 3
+
+
+
+
+
